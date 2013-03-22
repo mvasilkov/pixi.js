@@ -1,0 +1,9 @@
+{
+    "name": "pixi.js",
+    "version": "0.0.1",
+    "description": "Super fast HTML5 2D rendering engine that uses WebGL with canvas fallback",
+    "jam": {
+        "include": ["pixi.js"],
+        "main": "pixi.js"
+    }
+}
