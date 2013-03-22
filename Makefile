@@ -6,6 +6,6 @@ build:
 	rm -f jam/pixi.build.js
 
 clean:
-	rm jam/pixi.js
+	rm -f jam/pixi.js
 
 .PHONY: build clean

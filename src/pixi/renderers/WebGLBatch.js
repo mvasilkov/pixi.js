@@ -78,9 +78,6 @@ PIXI.WebGLBatch.prototype.clean = function()
 	this.texture = null;
 	this.last = null;
 	this.size = 0;
-	
-	this.head;
-	this.tail;
 }
 
 /*
